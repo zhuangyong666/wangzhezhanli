@@ -7,7 +7,7 @@ App({
     })
 
     wx.request({
-      url: 'https://www.somekey.cn/mini/hero/getHeroConfig.json',
+      url: 'https://gitee.com/zhuangyong1024/wangzhezhanli/raw/master/getHeroConfig.json',
       success: res => {
         if (res.data.code == 200) {
           var result = res.data.data;

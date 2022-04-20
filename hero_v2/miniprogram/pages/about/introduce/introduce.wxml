@@ -29,7 +29,7 @@
 
 	<view class="padding">
 		<view class="padding-xl radius shadow bg-white">
-			<text>小程序ID：wx0388b790677eddc7\n</text>
+			<text>小程序ID：wxae55d51d7163dadd\n</text>
 			如下图所示(点图片可放大)，进行第四步的时候，输入上述ID即可，然后你就可以在你的公众号使用本小程序啦！
 			<image src="https://6d65-mengkong-h5lan-1251988367.tcb.qcloud.la/images/weixin.png" bindtap="previewImage" mode="widthFix"
 			 data-src="https://6d65-mengkong-h5lan-1251988367.tcb.qcloud.la/images/weixin.png"></image>
@@ -48,8 +48,8 @@
 	<view class="padding">
 		<view class="padding-xl radius shadow bg-white">
 			<text>通用接口，内置文字版、图片版、公众号版\n</text>
-			<text>官网：www.sapi.run\n</text>
-			<text>源码联系VX：hongbao1808</text>
+			<text>公众号：羊毛小哥哥\n</text>
+			<text>源码联系VX：wx_zhuangy</text>
 		</view>
 	</view>
 	
